@@ -1,0 +1,14 @@
+[
+    {
+        "titulo" : " repasar JS",
+        "estado" : " terminadada"
+    },
+    {
+        "titulo" : " armar aplicacion de  tareas ",
+        "estado" : " en progreso"  
+    },
+    {
+        "titulo" : " break ",
+        "estado" : " pendiente "
+    }
+]
